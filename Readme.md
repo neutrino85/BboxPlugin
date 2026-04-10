@@ -117,7 +117,7 @@ Le switch **Reboot Bbox** permet de redémarrer la box directement depuis Domoti
 
 ## Licence
 
-À compléter selon la licence de ton projet.
+Faites-en ce que vous voulez.
 
 ---
 
