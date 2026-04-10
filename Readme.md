@@ -37,11 +37,11 @@ Il crée automatiquement des dispositifs Domoticz pour suivre l’état Internet
 
 ### Switchs Domoticz
 
-![Switchs Domoticz](Docs/SwitchsDomoticz.png)
+![Switchs Domoticz](docs/SwitchsDomoticz.png)
 
 ### Mesures Domoticz
 
-![Mesures Domoticz](Docs/MesuresDomoticz.png)
+![Mesures Domoticz](docs/MesuresDomoticz.png)
 
 ## Appareils créés
 
